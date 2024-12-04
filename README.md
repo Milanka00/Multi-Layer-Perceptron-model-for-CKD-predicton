@@ -152,3 +152,6 @@ results = evaluate_model(ffsnn, X_train, Y_train, X_test, Y_test)
 print(f"Training Accuracy: {results['training_accuracy']}")
 print(f"Testing Accuracy: {results['testing_accuracy']}")
 ```
+Results:
+
+![results](./results.png)
